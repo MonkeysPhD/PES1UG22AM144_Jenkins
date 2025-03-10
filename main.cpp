@@ -2,5 +2,5 @@
 
 int main() {
     std::cout << "Hello! Welcome to the Jenkins Pipeline!" << std::endl;
-    return 0;
+    return 0;
 }
